@@ -3,7 +3,7 @@
 
 Алгоритм основан на исследовании Huang, X. & Belongie, S. (2017) "Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization", представленном на конференции ICCV 2017. Метод AdaIN изменяет статистику признаков (среднее и стандартное отклонение) изображения-содержимого в соответствии с признаками изображения-стиля, что позволяет эффективно объединять содержание одного изображения и стиль другого.
 
-git clone https://github.com/ElijahHoff/arbitrary_style_transfer.git
+git clone 
 cd arbitrary_style_transfer
 
 pip install -r requirements.txt
